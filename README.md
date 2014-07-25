@@ -1,0 +1,4 @@
+altcoin
+=======
+
+Key altcoin algos
